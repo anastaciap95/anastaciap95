@@ -1,4 +1,5 @@
 -👋 Hi, I’m Anastasia
+
 -👀 I’m interested in Mathematics, Statistics, Business Intelligence and Data Analysis
 
 -I have studied in:
